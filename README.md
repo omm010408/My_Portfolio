@@ -1,7 +1,7 @@
-# Satyajit Sahoo | Portfolio
+# Omm Roshan Sahoo | Portfolio
 
 Welcome to my **Portfolio Repo**! 👋  
-I’m **Satyajit Sahoo**, a passionate **Fullstack Web Developer** from Odisha, India. This repo showcases my projects, skills, and contact info.
+I’m **Omm Roshan Sahoo**, a passionate **Fullstack Web Developer** from Odisha, India. This repo showcases my projects, skills, and contact info.
 
 ---
 
@@ -28,4 +28,4 @@ This portfolio is built with:
 
 ---
 
-Made with ❤️ by **Satyajit Sahoo**  
+Made with ❤️ by **Omm Roshan Sahoo**  
