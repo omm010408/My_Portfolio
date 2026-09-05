@@ -77,7 +77,8 @@ export default function Card({
           overwrite: 'auto'
         });
       } else {
-        const offsetX = i < hoveredIdx ? -560 : 560;
+        const offsetX = i < hoveredIdx ? -360 : 3
+        60;
         const pushedTransform = getPushedTransform(baseTransform, offsetX);
 
         const distance = Math.abs(hoveredIdx - i);
